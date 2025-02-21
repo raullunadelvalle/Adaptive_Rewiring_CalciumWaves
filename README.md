@@ -3,9 +3,9 @@
 Scripts needed to perform the adaptive rewiring simulations and data analysis in 
 the article: 
 
-Luna, R., Li, J., Bauer, R., & van Leeuwen, C. (2023). Retinal waves in adaptive 
-rewiring networks orchestrate convergence and divergence in the visual system.
-Network Neuroscience
+Luna, R., Li, J., Bauer, R., & van Leeuwen, C. (2024). Retinal waves in adaptive 
+rewiring networks orchestrate convergence and divergence in the visual system. 
+Network Neuroscience, 8(3), 653-672.
 
 
 
