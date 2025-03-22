@@ -689,7 +689,7 @@ axis square
 
 inHubsCD_neighpacemaker_mean_network = flipud(inHubsCD_neighpacemaker_mean_network).*Zero_diag;
 
-ax1 = figure(11)
+ax1 = figure(13)
 b = imagesc(inHubsCD_neighpacemaker_mean_network);
 set(b,'AlphaData',~isnan(inHubsCD_neighpacemaker_mean_network)) %~isnan(idx)
 caxis manual
@@ -720,7 +720,7 @@ axis square
 
 inHubsCD_NoNneighpacemaker_mean_network = flipud(inHubsCD_NoNneighpacemaker_mean_network).*Zero_diag;
 
-ax1 = figure(12)
+ax1 = figure(14)
 b = imagesc(inHubsCD_NoNneighpacemaker_mean_network);
 set(b,'AlphaData',~isnan(inHubsCD_NoNneighpacemaker_mean_network)) %~isnan(idx)
 caxis manual
